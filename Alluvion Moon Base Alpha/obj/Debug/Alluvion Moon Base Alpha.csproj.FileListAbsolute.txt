@@ -1,0 +1,16 @@
+C:\Users\hempn\Desktop\UAT_CSC202\Alluvion Moon Base Alpha\obj\Debug\Alluvion Moon Base Alpha.csproj.AssemblyReference.cache
+C:\Users\hempn\Desktop\UAT_CSC202\Alluvion Moon Base Alpha\obj\Debug\Alluvion Moon Base Alpha.csproj.SuggestedBindingRedirects.cache
+C:\Users\hempn\Desktop\UAT_CSC202\Alluvion Moon Base Alpha\obj\Debug\Alluvion_Moon_Base_Alpha.FormMain.resources
+C:\Users\hempn\Desktop\UAT_CSC202\Alluvion Moon Base Alpha\obj\Debug\Alluvion_Moon_Base_Alpha.Properties.Resources.resources
+C:\Users\hempn\Desktop\UAT_CSC202\Alluvion Moon Base Alpha\obj\Debug\Alluvion Moon Base Alpha.csproj.GenerateResource.cache
+C:\Users\hempn\Desktop\UAT_CSC202\Alluvion Moon Base Alpha\obj\Debug\Alluvion Moon Base Alpha.csproj.CoreCompileInputs.cache
+C:\Users\hempn\Desktop\UAT_CSC202\Alluvion Moon Base Alpha\bin\Debug\Alluvion Moon Base Alpha.exe.config
+C:\Users\hempn\Desktop\UAT_CSC202\Alluvion Moon Base Alpha\bin\Debug\Alluvion Moon Base Alpha.exe
+C:\Users\hempn\Desktop\UAT_CSC202\Alluvion Moon Base Alpha\bin\Debug\Alluvion Moon Base Alpha.pdb
+C:\Users\hempn\Desktop\UAT_CSC202\Alluvion Moon Base Alpha\obj\Debug\Alluvion Moon Base Alpha.exe
+C:\Users\hempn\Desktop\UAT_CSC202\Alluvion Moon Base Alpha\obj\Debug\Alluvion Moon Base Alpha.pdb
+C:\Users\hempn\Desktop\UAT_CSC202\Alluvion Moon Base Alpha\bin\Debug\Alluvion Moon Base Alpha.exe.manifest
+C:\Users\hempn\Desktop\UAT_CSC202\Alluvion Moon Base Alpha\bin\Debug\Alluvion Moon Base Alpha.application
+C:\Users\hempn\Desktop\UAT_CSC202\Alluvion Moon Base Alpha\obj\Debug\Alluvion Moon Base Alpha.TrustInfo.xml
+C:\Users\hempn\Desktop\UAT_CSC202\Alluvion Moon Base Alpha\obj\Debug\Alluvion Moon Base Alpha.exe.manifest
+C:\Users\hempn\Desktop\UAT_CSC202\Alluvion Moon Base Alpha\obj\Debug\Alluvion Moon Base Alpha.application
